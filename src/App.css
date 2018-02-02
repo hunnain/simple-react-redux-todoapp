@@ -1,0 +1,17 @@
+
+body{
+  
+  background-repeat: no-repeat;
+}
+.btn{
+  margin: 3px;
+}
+.listbtn{
+float: right;
+}
+li{
+  font-size: 150%;
+}
+.listHead{
+  color: white
+}
